@@ -1,7 +1,6 @@
 # info-10c
 
-The Site is generated using [vuepress](https://vuepress.vuejs.org/) and [vuepress-theme-plume](https://github.com/pengzhanbo/vuepress-theme-plume)
-
+The Site is generated using [vuepress](https://vuepress.vuejs.org/).
 ## Install
 
 ```sh
@@ -24,4 +23,3 @@ pnpm vp-update
 ## Documents
 
 - [vuepress](https://vuepress.vuejs.org/)
-- [vuepress-theme-plume](https://theme-plume.vuejs.press/)
